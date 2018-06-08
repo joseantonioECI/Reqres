@@ -7,8 +7,8 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'Reqres'
-  s.version          = '2.1.1'
+  s.name             = 'ReqresFixed'
+  s.version          = '2.1.2'
   s.summary          = 'Simple network activity logger'
 
   s.description      = <<-DESC
