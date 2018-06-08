@@ -17,8 +17,8 @@ Logs every request app makes, works great with Alamofire.
 
   s.homepage         = 'https://github.com/AckeeCZ/Reqres'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'Ackee' => 'info@ackee.cz' }
-  s.source           = { :git => 'https://github.com/AckeeCZ/Reqres.git', :tag => s.version.to_s }
+  s.author           = { 'Jose Antonio' => 'joseantonioeci@gmail.com' }
+  s.source           = { :git => 'https://github.com/joseantonioECI/Reqres.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
